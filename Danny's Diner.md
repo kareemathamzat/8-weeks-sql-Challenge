@@ -153,8 +153,8 @@ WHERE date_ranked = 1;
 | customer_id |product_name |
 | ----------- | ----------  |
 | A           |  sushi      | 
-| A           |  curry      |
-| B           |   sushi     |
+| B           |  sushi      |
+
 
 
 ### 8. What is the total items and amount spent for each member before they became a member?
@@ -226,4 +226,4 @@ ORDER BY customer;
 | Customer| Points | 
 | ----------- | ---------- |
 | A           | 1370 |
-| B           | 820 |
+| B           | 940 |
